@@ -3,5 +3,7 @@
   "model.tflite": 1.0,
   "labels.txt": 1.0,
   "vocab.txt": 1.0,
-  "libtensorflowlite_c-win.dll": 1.0
+  "libtensorflowlite_c-win.dll": 1.0,
+  "isar.dll": 1.0,
+  "libisar_macos.dylib": 1.0
 }
