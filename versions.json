@@ -1,0 +1,7 @@
+{
+  "run_server.exe": 1.0,
+  "model.tflite": 1.0,
+  "labels.txt": 1.0,
+  "vocab.txt": 1.0,
+  "libtensorflowlite_c-win.dll": 1.0
+}
